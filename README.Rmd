@@ -1,0 +1,127 @@
+---
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Kaggle
+
+Today I collected all the brief competition descriptions on the Kaggle website.  I'm interested in how often data science for good type competitions were held and under what conditions.  I'd also like to know how they compare to other types of competitions held.
+
+
+```{r, message=F, warning=F}
+library(tidyverse)
+library(lubridate)
+library(here)
+kaggle <- read_csv(here("data/kaggle_competitions.csv"))
+
+str(kaggle, give.attr = F)
+summary(kaggle$deadline)
+```
+  
+There's 339 competitions listed today, most of which have likely finished, lets start with deadlines to get a sense of how many competitions are closing at any time.
+
+```{r}
+kaggle %>% 
+  filter( deadline < ymd(20210101)) %>% 
+  ggplot(aes(deadline)) +
+  geom_histogram()
+```
+
+In recent years, there's been about 35 competitions per year.  For the most recent year we can get monthly data, but the deadline is aggregated by year for others because it was derived from statements like "2 years ago".
+
+We can break out the type of comptition held in most recent years.
+
+```{r}
+kaggle %>% 
+  filter( between(deadline, ymd(20180701), ymd(20190701)) ) %>% 
+  ggplot(aes(deadline, fill = category)) +
+  geom_histogram() +
+  facet_wrap(~ category) +
+  scale_x_date(date_labels = "%b") +
+  labs(title = "Kaggle competitions held from Jul 2018 to Jul 2019", 
+       x = "",
+       y = "number of competitions") +
+  guides(fill = F)
+```
+
+Just to be sure, what type of competitions to data science for good one's get categorized as?
+
+```{r}
+kaggle %>% 
+  filter(str_detect(title, "Good"))
+```
+
+There's been two other Data Science for Good competitions ([Data Science for Good: Center for Policing] Equity(https://www.kaggle.com/center-for-policing-equity/data-science-for-good/kernels) and [Data Science for Good: PASSNYC](https://www.kaggle.com/passnyc/data-science-for-good/kernels)), however they've been taken off the listings for some reason.  
+
+The Data Science for Good competitions are also unique in that they don't have a leaderboard so there is no measure for teams entered.  One possible way to still count this would be to perhaps count the unique user codes that are active on the competition (through some measure of kernels or discussions).
+
+
+That cuts this comparison short, but we can still look at some broad summaries of the rest of Kaggle's competitions.  For instance, many teams typically enter a competition?
+
+```{r}
+kaggle %>% 
+  ggplot(aes(teams_entered)) +
+  geom_histogram()
+```
+
+Most appear to have something in the 10 to 500 range, but there are some serious outliers with over 6,000 teams.  Which one's were these?
+
+```{r}
+kaggle %>% 
+  filter(teams_entered > 6000) %>% 
+  select(-kernels_comp, -submission_details, -tags, -category, -deadline)
+```
+
+The ongoing Titanic competition takes the lion's share, a gateway to data science that many people try when they first hear of it (including me!).  The others look like they have to do with financial data.
+
+Speaking of which, there's a prize amount for some Kaggle competitions so we should definitely take a look at how much prize money typically gets offered and how it can influence the number of teams entered.
+
+```{r}
+kaggle %>% 
+  filter(prize != "USD") %>% 
+  mutate( prize = if_else(str_detect(prize, "[\\$\\€]"), "Money", prize)) %>% 
+  count(prize) %>% 
+  mutate(prize = reorder(prize, n)) %>% 
+  ggplot(aes(prize, n)) +
+  geom_col() +
+  coord_flip() +
+  labs( title = "Number of Kaggle competitions held by type of prize",
+        subtitle = "from 2010 to present")
+```
+
+Money is certain the most popular prize.  
+
+```{r}
+# need to clean the prize variable so it's a number
+kaggle_prizes <- kaggle %>%
+  # we'll drop the one prize offered in euros
+  filter(str_detect(prize, "[\\$]") ) %>% 
+  mutate(prize = as.numeric(str_replace_all(prize, "[\\$,]", "")))
+
+summary(kaggle_prizes$prize)
+```
+
+Wait up, some competitions offered _how much_ as prize money?  These prizes are often a pool split amongst several top finishers, but that's a lot of zeros!  Lets filter out anything over $500,000 as these are truly unique.  Which one's were they anyway?
+
+```{r}
+kaggle_prizes %>% 
+  filter(prize > 500000) %>% 
+  select(-kernels_comp, -submission_details, -tags, -category, -deadline)
+```
+
+Interesting, there's a Public Sector competition on passenger screening from the US Department of Homeland Security.  The goal was to "Improve the accuracy of the Department of Homeland Security's threat recognition algorithms".  Here's a [link](https://www.kaggle.com/c/passenger-screening-algorithm-challenge).  It certainly looks like the number of teams that entered didn't necessarily increase proportionally to the size of the prize of $1.5 million dollars - the largest Kaggle has ever seen.
+
+```{r}
+kaggle_prizes %>% 
+  filter(prize < 500000) %>% 
+  ggplot(aes(prize, teams_entered)) +
+  geom_point(alpha = 0.2) +
+  geom_smooth() +
+  labs(title = "How does the number of teams entering vary with prize money?")
+```
+
+There's likely some explanatory power of prize money, but the number of teams entering is likely a little more complicated story.  Especially beyond $100,000 where it actually begins to decrease.  Perhaps this is because of the nature of competitions offering greater prizes: they could be more challenging.
+
