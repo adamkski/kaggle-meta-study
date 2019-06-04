@@ -51,10 +51,11 @@ Just to be sure, what type of competitions to data science for good one's get ca
 
 ```{r}
 kaggle %>% 
-  filter(str_detect(title, "Good"))
+  filter(str_detect(title, "Good")) %>% 
+  select(title, short_desc)
 ```
 
-There's been two other Data Science for Good competitions ([Data Science for Good: Center for Policing] Equity(https://www.kaggle.com/center-for-policing-equity/data-science-for-good/kernels) and [Data Science for Good: PASSNYC](https://www.kaggle.com/passnyc/data-science-for-good/kernels)), however they've been taken off the listings for some reason.  
+There's been two other Data Science for Good competitions ([Data Science for Good: Center for Policing Equity](https://www.kaggle.com/center-for-policing-equity/data-science-for-good/kernels) and [Data Science for Good: PASSNYC](https://www.kaggle.com/passnyc/data-science-for-good/kernels)), however they've been taken off the listings for some reason.  
 
 The Data Science for Good competitions are also unique in that they don't have a leaderboard so there is no measure for teams entered.  One possible way to still count this would be to perhaps count the unique user codes that are active on the competition (through some measure of kernels or discussions).
 

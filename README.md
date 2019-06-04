@@ -71,17 +71,17 @@ Just to be sure, what type of competitions to data science for good one's get ca
 
 ``` r
 kaggle %>% 
-  filter(str_detect(title, "Good"))
+  filter(str_detect(title, "Good")) %>% 
+  select(title, short_desc)
 ```
 
-    ## # A tibble: 2 x 9
-    ##   title short_desc category prize tags  kernels_comp submission_deta~
-    ##   <chr> <chr>      <chr>    <chr> <chr> <chr>        <chr>           
-    ## 1 Data~ Help the ~ Analyti~ $15,~ imag~ <NA>         <NA>            
-    ## 2 Data~ Match car~ Analyti~ $15,~ chil~ <NA>         <NA>            
-    ## # ... with 2 more variables: teams_entered <dbl>, deadline <date>
+    ## # A tibble: 2 x 2
+    ##   title                       short_desc                                   
+    ##   <chr>                       <chr>                                        
+    ## 1 Data Science for Good: Cit~ Help the City of Los Angeles to structure an~
+    ## 2 Data Science for Good: Car~ Match career advice questions with professio~
 
-There's been two other Data Science for Good competitions (\[Data Science for Good: Center for Policing\] Equity(<https://www.kaggle.com/center-for-policing-equity/data-science-for-good/kernels>) and [Data Science for Good: PASSNYC](https://www.kaggle.com/passnyc/data-science-for-good/kernels)), however they've been taken off the listings for some reason.
+There's been two other Data Science for Good competitions ([Data Science for Good: Center for Policing Equity](https://www.kaggle.com/center-for-policing-equity/data-science-for-good/kernels) and [Data Science for Good: PASSNYC](https://www.kaggle.com/passnyc/data-science-for-good/kernels)), however they've been taken off the listings for some reason.
 
 The Data Science for Good competitions are also unique in that they don't have a leaderboard so there is no measure for teams entered. One possible way to still count this would be to perhaps count the unique user codes that are active on the competition (through some measure of kernels or discussions).
 
