@@ -1,0 +1,340 @@
+title,short_desc,category,prize,tags,kernels_comp,submission_details,teams_entered,deadline
+Predict Future Sales,"Final project for ""How to win a data science competition"" Coursera course",Playground,Kudos,NA,NA,NA,3281,2020-01-02
+iMaterialist (Fashion) 2019 at FGVC6,Fine-grained segmentation task for fashion and apparel,Research,Kudos,NA,NA,NA,203,2019-06-10
+iNaturalist 2019 at FGVC6,Fine-grained classification spanning a thousand species,Research,Kudos,NA,NA,NA,209,2019-06-10
+Google Landmark Recognition 2019,Label famous (and not-so-famous) landmarks in images,Research,"$25,000",NA,NA,NA,281,2019-06-03
+Google Landmark Retrieval 2019,"Given an image, can you find all of the same landmarks in a dataset?",Research,"$25,000",NA,NA,NA,144,2019-06-03
+Microsoft Malware Prediction,Can you predict if a machine will soon be hit with malware?,Research,"$25,000",NA,NA,NA,2426,2019-03-04
+Reducing Commercial Aviation Fatalities,Can you tell when a pilot is heading for trouble?,Playground,Swag,NA,NA,NA,180,2019-02-02
+Google AI Open Images - Object Detection Track,Detect objects in varied and complex images.,Featured,"$30,000",NA,NA,NA,454,2018-09-03
+Google AI Open Images - Visual Relationship Track,Detect pairs of objects in particular relationships.,Featured,"$20,000",NA,NA,NA,232,2018-09-03
+CVPR 2018 WAD Video Segmentation Challenge,Can you segment each objects within image frames captured by vehicles?,Research,"$2,500",NA,NA,NA,141,2018-06-04
+iNaturalist Challenge at FGVC5,"Long tailed classification challenge spanning 8,000 species.",Research,Kudos,NA,NA,NA,59,2018-06-04
+iMaterialist Challenge (Fashion) at FGVC5,Image classification of fashion products.,Research,"$2,500",NA,NA,NA,212,2018-06-04
+iMaterialist Challenge (Furniture) at FGVC5,Image Classification of Furniture & Home Goods.,Research,"$2,500",NA,NA,NA,428,2018-06-04
+TalkingData AdTracking Fraud Detection Challenge,Can you detect fraudulent click traffic for mobile app ads?,Featured,"$25,000",NA,NA,NA,3951,2018-06-04
+Google Cloud & NCAA® ML Competition 2018-Women's,Apply machine learning to NCAA® March Madness®,Featured,"$50,000",NA,NA,NA,505,2018-06-04
+Recruit Restaurant Visitor Forecasting,Predict how many future visitors a restaurant will receive,Featured,"$25,000",NA,NA,NA,2158,2018-06-04
+TensorFlow Speech Recognition Challenge,Can you build an algorithm that understands simple speech commands?,Featured,"$25,000",NA,NA,NA,1315,2018-06-04
+WSDM - KKBox's Music Recommendation Challenge,Can you build the best music recommendation system?,Research,"$5,000",NA,NA,NA,1081,2018-06-04
+Cervical Cancer Screening,Help prevent cervical cancer by identifying at-risk populations,Featured,"$100,000",NA,NA,NA,40,2016-06-04
+Western Australia Rental Prices,Predict rental prices for properties across Western Australia,Featured,"$100,000",NA,NA,NA,59,2015-06-05
+Introducing Kaggle Scripts,Your code deserves better,Playground,Swag,NA,NA,NA,NA,2015-06-05
+BCI Challenge @ NER 2015,A spell on you if you cannot detect errors!,Research,"$1,000",NA,NA,NA,260,2015-06-05
+Click-Through Rate Prediction,Predict whether a mobile ad will be clicked,Featured,"$15,000",NA,NA,NA,1604,2015-06-05
+Helping Santa's Helpers,"Jingle bells, Santa tells ...",Featured,"$20,000",NA,NA,NA,439,2015-06-05
+Data Science London + Scikit-learn,Scikit-learn is an open-source machine learning library for Python. Give it a try here!,Getting Started,Knowledge,NA,NA,NA,191,2015-06-05
+American Epilepsy Society Seizure Prediction Challenge,Predict seizures in intracranial EEG recordings,Research,"$25,000",NA,NA,NA,504,2014-06-05
+Tradeshift Text Classification,Classify text blocks in documents,Featured,"$5,000",NA,NA,NA,375,2014-06-05
+Learning Social Circles in Networks,Model friend memberships to multiple circles,Playground,Knowledge,NA,NA,NA,203,2014-06-05
+Africa Soil Property Prediction Challenge,Predict physical and chemical properties of soil using spectral measurements,Research,"$8,000",NA,NA,NA,1233,2014-06-05
+CIFAR-10 - Object Recognition in Images,"Identify the subject of 60,000 labeled images",Playground,Knowledge,NA,NA,NA,231,2014-06-05
+Display Advertising Challenge,Predict click-through rates on display ads,Research,"$16,000",NA,NA,NA,718,2014-06-05
+Higgs Boson Machine Learning Challenge,Use the ATLAS experiment to identify the Higgs boson,Featured,"$13,000",NA,NA,NA,1785,2014-06-05
+Liberty Mutual Group - Fire Peril Loss Cost,Predict expected fire losses for insurance policies,Featured,"$25,000",NA,NA,NA,634,2014-06-05
+The Hunt for Prohibited Content,Predict which ads contain illicit content,Featured,"$25,000",NA,NA,NA,285,2014-06-05
+UPenn and Mayo Clinic's Seizure Detection Challenge,Detect seizures in intracranial EEG recordings,Research,"$8,000",NA,NA,NA,200,2014-06-05
+DecMeg2014 - Decoding the Human Brain,Predict visual stimuli from MEG recordings of human brain activity,Research,"$5,000",NA,NA,NA,267,2014-06-05
+MLSP 2014 Schizophrenia Classification Challenge,Diagnose schizophrenia using multimodal features from MRI scans,Research,Kudos,NA,NA,NA,313,2014-06-05
+KDD Cup 2014 - Predicting Excitement at DonorsChoose.org,Predict funding requests that deserve an A+,Research,"$2,000",NA,NA,NA,472,2014-06-05
+Greek Media Monitoring Multilabel Classification (WISE 2014),Multi-label classification of printed media articles to topics,Research,$680,NA,NA,NA,120,2014-06-05
+Acquire Valued Shoppers Challenge,Predict which shoppers will become repeat buyers,Featured,"$30,000",NA,NA,NA,952,2014-06-05
+Risky Business,Predict the risk of customer credit default,Masters,"$100,000",NA,NA,NA,44,2014-06-05
+Allstate Purchase Prediction Challenge,Predict a purchased policy based on transaction history,Featured,"$50,000",NA,NA,NA,1568,2014-06-05
+CONNECTOMICS,Reconstruct the wiring between neurons from fluorescence imaging of neural activity,Research,"$3,000",NA,NA,NA,143,2014-06-05
+The Analytics Edge (15.071x),Learn what predicts happiness by using informal polling questions.,Playground,Knowledge,NA,NA,NA,1685,2014-06-05
+Walmart Recruiting - Store Sales Forecasting,Use historical markdown data to predict store sales,Recruitment,Jobs,NA,NA,NA,691,2014-06-05
+Large Scale Hierarchical Text Classification,"Classify Wikipedia documents into one of 325,056 categories",Research,Swag,NA,NA,NA,119,2014-06-05
+Galaxy Zoo - The Galaxy Challenge,Classify the morphologies of distant galaxies in our Universe,Research,"$16,000",NA,NA,NA,326,2014-06-05
+The Random Number Grand Challenge,Decode a sequence of pseudorandom numbers,Featured,"$1,000",NA,NA,NA,205,2014-06-05
+PAKDD 2014 - ASUS Malfunctional Components Prediction,Predict malfunctional components of ASUS notebooks,Research,"$8,500",NA,NA,NA,610,2014-06-05
+Loan Default Prediction - Imperial College London,Constructing an optimal portfolio of loans,Research,"$10,000",NA,NA,NA,675,2014-06-05
+Flu Forecasting,"Predict when, where and how strong the flu will be",Masters,"$125,000",NA,NA,NA,50,2014-06-05
+Conway's Reverse Game of Life,Reverse the arrow of time in the Game of Life,Playground,Swag,NA,NA,NA,142,2014-06-05
+Dogs vs. Cats,Create an algorithm to distinguish dogs from cats,Playground,Swag,NA,NA,NA,215,2014-06-05
+Packing Santa's Sleigh,"He's making a list, checking it twice; to fill up his sleigh, he needs your advice",Featured,"$10,000",NA,NA,NA,362,2014-06-05
+Personalized Web Search Challenge,Re-rank web documents using personal preferences,Featured,"$9,000",NA,NA,NA,194,2014-06-05
+As the World Churns,Predict which customers will leave an insurance company in the next 12 months.,Masters,"$70,000",NA,NA,NA,37,2014-06-05
+Facebook Recruiting III - Keyword Extraction,Identify keywords and tags from millions of text questions,Recruitment,Jobs,NA,NA,NA,367,2014-06-05
+Partly Sunny with a Chance of Hashtags,What can a #machine learn from tweets about the #weather?,Playground,$500,NA,NA,NA,259,2013-06-05
+See Click Predict Fix,Predict which 311 issues are most important to citizens,Featured,"$4,000",NA,NA,NA,532,2013-06-05
+Multi-label Bird Species Classification - NIPS 2013,Identify which of 87 classes of birds and amphibians are present into 1000 continuous wild sound recordings,Research,Knowledge,NA,NA,NA,32,2013-06-05
+Accelerometer Biometric Competition,Recognize users of mobile devices from accelerometer data,Research,"$5,000",NA,NA,NA,633,2013-06-05
+AMS 2013-2014 Solar Energy Prediction Contest,Forecast daily solar energy with an ensemble of weather models,Research,"$1,000",NA,NA,NA,160,2013-06-05
+Personalize Expedia Hotel Searches - ICDM 2013,Learning to rank hotels to maximize purchases,Featured,"$25,000",NA,NA,NA,337,2013-06-05
+Belkin Energy Disaggregation Competition,Disaggregate household energy consumption into individual appliances,Featured,"$25,000",NA,NA,NA,165,2013-06-05
+The Big Data Combine Engineered by BattleFin,Predict short term movements in stock prices using news and sentiment data provided by RavenPack,Research,"$18,500",NA,NA,NA,425,2013-06-05
+See Click Predict Fix - Hackathon,Predict which 311 issues are most important to citizens,Featured,"$1,000",NA,NA,NA,80,2013-06-05
+Cause-effect pairs,"Given samples from a pair of variables A, B, find whether A is a cause of B.",Research,"$10,000",NA,NA,NA,266,2013-06-05
+RecSys2013: Yelp Business Rating Prediction,RecSys Challenge 2013: Yelp business rating prediction,Research,$500,NA,NA,NA,158,2013-06-05
+Multi-modal Gesture Recognition,Recognize gesture sequences in video and depth data from Kinect,Research,"$10,000",NA,NA,NA,53,2013-06-05
+MLSP 2013 Bird Classification Challenge,"Predict the set of bird species present in an audio recording, collected in field conditions.",Research,"$1,800",NA,NA,NA,79,2013-06-05
+MasterCard - Data Cleansing Competition,Improve the quality of information within transaction data,Masters,"$100,000",NA,NA,NA,6,2013-06-05
+Amazon.com - Employee Access Challenge,"Predict an employee's access needs, given his/her job role",Featured,"$5,000",NA,NA,NA,1687,2013-06-05
+Yelp Recruiting Competition,"How many ""useful"" votes will a Yelp review receive? Show off your skills to land an interview for a position on a Yelp data mining team!",Recruitment,Jobs,NA,NA,NA,350,2013-06-05
+KDD Cup 2013 - Author-Paper Identification Challenge (Track 1),Determine whether an author has written a given paper,Featured,"$7,500",NA,NA,NA,553,2013-06-05
+The ICML 2013 Bird Challenge,Identify bird species from continuous audio recordings,Research,$500,NA,NA,NA,76,2013-06-05
+The ICML 2013 Whale Challenge - Right Whale Redux,Develop recognition solutions to detect and classify right whales for BIG data mining and exploration studies,Research,$500,NA,NA,NA,129,2013-06-05
+KDD Cup 2013 - Author Disambiguation Challenge (Track 2),Identify which authors correspond to the same person,Featured,"$7,500",NA,NA,NA,237,2013-06-05
+Challenges in Representation Learning: Facial Expression Recognition Challenge,Learn facial expressions from an image,Research,$500,NA,NA,NA,56,2013-06-05
+Challenges in Representation Learning: The Black Box Learning Challenge,"Competitors train a classifier on a dataset that is not human readable, without knowledge of what the data consists of.",Research,$500,NA,NA,NA,211,2013-06-05
+Challenges in Representation Learning: Multi-modal Learning,The multi-modal learning challenge,Research,$500,NA,NA,NA,24,2013-06-05
+dunnhumby & hack/reduce Product Launch Challenge,The success or failure of a new product launch is often evident within the first few weeks of sales. Can you predict a product's destiny?,Featured,"$5,000",NA,NA,NA,108,2013-06-05
+ICDAR2013 - Handwriting Stroke Recovery from Offline Data,Predict the trajectory of a handwritten signature,Research,"$1,000",NA,NA,NA,40,2013-06-05
+Blue Book for Bulldozers,"Predict the auction sale price for a piece of heavy equipment to create a ""blue book"" for bulldozers.",Featured,"$10,000",NA,NA,NA,475,2013-06-05
+ICDAR2013 - Gender Prediction from Handwriting,Predict if a handwritten document has been produced by a male or a female writer,Research,"$1,000",NA,NA,NA,190,2013-06-05
+Influencers in Social Networks,Predict which people are influential in a social network,Featured,"$2,350",NA,NA,NA,132,2013-06-05
+The Marinexplore and Cornell University Whale Detection Challenge,"Create an algorithm to detect North Atlantic right whale calls from audio recordings, prevent collisions with shipping traffic",Featured,"$10,000",NA,NA,NA,245,2013-06-05
+Heritage Health Prize,Identify patients who will be admitted to a hospital within the next year using historical claims data. (Enter by 06:59:59 UTC Oct 4 2012),Featured,"$500,000",NA,NA,NA,1353,2013-06-05
+Job Salary Prediction,Predict the salary of any UK job ad based on its contents,Featured,"$6,000",NA,NA,NA,289,2013-06-05
+Predicting Parkinson's Disease Progression with Smartphone Data,Can we objectively measure the symptoms of Parkinson’s disease with a smartphone? We have the data to find out!,Research,"$10,000",NA,NA,NA,NA,2013-06-05
+Just the Basics - Strata 2013 After-party,"Live from Santa Clara, CA",Getting Started,Knowledge,NA,NA,NA,48,2013-06-05
+Just the Basics - Strata 2013,"Live from Santa Clara, CA - Core Data Science Skills with Kaggle’s Top Competitors",Getting Started,Knowledge,NA,NA,NA,49,2013-06-05
+Event Recommendation Engine Challenge,"Predict what events our users will be interested in based on user actions, event metadata, and demographic information.",Featured,"$5,000",NA,NA,NA,223,2013-06-05
+Leaping Leaderboard Leapfrogs,Provide creative visualizations of the Kaggle leaderboard,Research,$900,NA,NA,NA,NA,2013-06-05
+Prescription Volume Prediction,Predict future prescription volume,Masters,USD,NA,NA,NA,12,2013-06-05
+Visualize the State of Public Education in Colorado,"Using 3 years of school grading data supplied by the Colorado Department of Education and R-Squared Research, visually uncover trends in the Colorado public school system.",Research,"$5,000",NA,NA,NA,NA,2013-06-05
+Traveling Santa Problem,Solve ye olde traveling salesman problem to help Santa Claus deliver his presents,Featured,"$3,000",NA,NA,NA,355,2013-06-05
+Observing Dark Worlds,Can you find the Dark Matter that dominates our Universe? Winton Capital offers you the chance to unlock the secrets of dark worlds.,Recruitment,"$20,000",NA,NA,NA,353,2013-06-05
+Will I Stay or Will I Go?,Predict which of our current customers will stay insured with us for an entire policy term.,Masters,USD,NA,NA,NA,12,2013-06-05
+Facebook II - Mapping the Internet,Round II of the Facebook Recruiting Competition.,Recruitment,Jobs,NA,NA,NA,111,2012-06-05
+U.S. Census Return Rate Challenge,Predict census mail return rates.,Featured,"$25,000",NA,NA,NA,243,2012-06-05
+Predict Closed Questions on Stack Overflow,Predict which new questions asked on Stack Overflow will be closed,Featured,"$20,000",NA,NA,NA,161,2012-06-05
+Global Energy Forecasting Competition 2012 - Load Forecasting,A hierarchical load forecasting problem: backcasting and forecasting hourly loads (in kW) for a US utility with 20 zones.,Research,"$7,500",NA,NA,NA,104,2012-06-05
+Global Energy Forecasting Competition 2012 - Wind Forecasting,A wind power forecasting problem: predicting hourly power generation up to 48 hours ahead at 7 wind farms,Research,"$7,500",NA,NA,NA,133,2012-06-05
+Merck Molecular Activity Challenge,Help develop safe and effective medicines by predicting molecular activity.,Featured,"$40,000",NA,NA,NA,236,2012-06-05
+Data Mining Hackathon on BIG DATA (7GB) Best Buy mobile web site,Predict which BestBuy product a mobile web visitor will be most interested in based on their search query or behavior over 2 years (7 GB).,Research,"$1,000",NA,NA,NA,25,2012-06-05
+Data Mining Hackathon on (20 mb) Best Buy mobile web site - ACM SF Bay Area Chapter,Getting Started - Predict which Xbox game a visitor will be most interested in based on their search query. (20 MB),Research,$600,NA,NA,NA,96,2012-06-05
+CPROD1: Consumer PRODucts contest #1,Identify product mentions within a largely user-generated web-based corpus and disambiguate the mentions against a large product catalog.,Research,"$10,000",NA,NA,NA,29,2012-06-05
+Detecting Insults in Social Commentary,Predict whether a comment posted during a public discussion is considered insulting to one of the participants.,Recruitment,"$10,000",NA,NA,NA,50,2012-06-05
+Raising Money to Fund an Organizational Mission,Help worthy organizations more efficiently target and recruit loyal donors to support their causes.,Featured,"$10,000",NA,NA,NA,27,2012-06-05
+CHALEARN Gesture Challenge 2,Develop a Gesture Recognizer for Microsoft Kinect (TM),Research,"$10,000",NA,NA,NA,30,2012-06-05
+Practice Fusion Diabetes Classification,Identify patients diagnosed with Type 2 Diabetes,Research,"$10,000",NA,NA,NA,146,2012-06-05
+EMC Israel Data Science Challenge,Match source code files to the open source code project,Research,"$10,000",NA,NA,NA,86,2012-06-05
+Million Song Dataset Challenge,Predict which songs a user will listen to.,Research,Kudos,NA,NA,NA,150,2012-06-05
+EMI Music Data Science Hackathon - July 21st - 24 hours,Can you predict if a listener will love a new song?,Featured,"$10,000",NA,NA,NA,133,2012-06-05
+Facebook Recruiting Competition,"Show them your talent, not just your resume.",Recruitment,Jobs,NA,NA,NA,418,2012-06-05
+Online Product Sales,Predict the online sales of a consumer product based on a data set of product features.,Featured,"$22,500",NA,NA,NA,363,2012-06-05
+Psychopathy Prediction Based on Twitter Usage,Identify people who have a high degree of Psychopathy based on Twitter usage.,Research,"$1,000",NA,NA,NA,111,2012-06-05
+Personality Prediction Based on Twitter Stream,Identify the best performing model(s) to predict personality traits based on Twitter usage,Research,$500,NA,NA,NA,89,2012-06-05
+Predicting a Biological Response,Predict a biological response of molecules from their chemical properties,Featured,"$20,000",NA,NA,NA,699,2012-06-05
+"KDD Cup 2012, Track 1",Predict which users (or information sources) one user might follow in Tencent Weibo.,Featured,"$8,000",NA,NA,NA,657,2012-06-05
+"KDD Cup 2012, Track 2",Predict the click-through rate of ads given the query and user information.,Featured,"$8,000",NA,NA,NA,163,2012-06-05
+The Hewlett Foundation: Automated Essay Scoring,Develop an automated scoring algorithm for student-written essays.,Featured,"$100,000",NA,NA,NA,154,2012-06-05
+Benchmark Bond Trade Price Challenge,Develop models to accurately predict the trade price of a bond.,Featured,"$17,500",NA,NA,NA,264,2012-06-05
+EMC Data Science Global Hackathon (Air Quality Prediction),Build a local early warning systems to accurately predict dangerous levels of air pollutants on an hourly basis.,Featured,"$7,030",NA,NA,NA,110,2012-06-05
+ICFHR 2012 - Arabic Writer Identification,Identify which writer wrote which documents.,Research,"$1,000",NA,NA,NA,42,2012-06-05
+Eye Movements Verification and Identification Competition,Determine how people may be identified based on their eye movement characteristic.,Research,Kudos,NA,NA,NA,46,2012-06-05
+CHALEARN Gesture Challenge,Develop a Gesture Recognizer for Microsoft Kinect (TM),Featured,"$10,000",NA,NA,NA,47,2012-06-05
+What Do You Know?,Improve the state of the art in student evaluation by predicting whether a student will answer the next test question correctly.,Featured,"$5,000",NA,NA,NA,239,2012-06-05
+Getting Started,Create a forum for New Users,Featured,"$10,000",NA,NA,NA,NA,2012-06-05
+Algorithmic Trading Challenge,Develop new models to accurately predict the market response to large trades.,Featured,"$10,000",NA,NA,NA,111,2012-06-05
+Don't Get Kicked!,Predict if a car purchased at auction is a lemon,Featured,"$10,000",NA,NA,NA,570,2012-06-05
+Give Me Some Credit,Improve on the state of the art in credit scoring by predicting the probability that somebody will experience financial distress in the next two years.,Featured,"$5,000",NA,NA,NA,924,2012-06-05
+Photo Quality Prediction,"Given anonymized information on thousands of photo albums, predict whether a human evaluator would mark them as 'good'.",Featured,"$5,000",NA,NA,NA,200,2011-06-06
+Semi-Supervised Feature Learning,There's been a lot of recent work done in unsupervised feature learning for classification and there are a ton of older methods that also work well. The purpose of this competition is to find out which of these methods work best on relatively large-scale high dimensional learning tasks.,Featured,$500,NA,NA,NA,26,2011-06-06
+Allstate Claim Prediction Challenge,A key part of insurance is charging each customer the appropriate price for the risk they represent.,Featured,"$10,000",NA,NA,NA,102,2011-06-06
+dunnhumby's Shopper Challenge,"Going grocery shopping, we all have to do it, some even enjoy it, but can you predict it? dunnhumby is looking to build a model to better predict when supermarket shoppers will next visit the store and how much they will spend.",Featured,"$10,000",NA,NA,NA,277,2011-06-06
+Wikipedia's Participation Challenge,This competition challenges data-mining experts to build a predictive model that predicts the number of edits an editor will make five months from the end date of the training dataset.,Featured,"$10,000",NA,NA,NA,90,2011-06-06
+Mapping Dark Matter,Measure the small distortion in galaxy images caused by dark matter,Featured,"$3,000",NA,NA,NA,70,2011-06-06
+Don't Overfit!,"With nearly as many variables as training cases, what are the best techniques to avoid disaster?",Featured,$500,NA,NA,NA,259,2011-06-06
+Deloitte/FIDE Chess Rating Challenge,"This contest, sponsored by professional services firm Deloitte, will find the most accurate system to predict chess outcomes, and FIDE will also bring a top finisher to Athens to present their system",Featured,"$10,000",NA,NA,NA,181,2011-06-06
+ICDAR 2011 - Arabic Writer Identification,This competition require participants to develop an algorithm to identify who wrote which documents. The winner will be honored at a special session of the ICDAR 2011 conference.,Featured,"$1,000",NA,NA,NA,30,2011-06-06
+Stay Alert! The Ford Challenge,"Driving while not alert can be deadly. The objective is to design a classifier that will detect whether the driver is alert or not alert, employing data that are acquired while driving.",Featured,$950,NA,NA,NA,176,2011-06-06
+Predict Grant Applications,This task requires participants to predict the outcome of grant applications for the University of Melbourne.,Featured,"$5,000",NA,NA,NA,204,2011-06-06
+RTA Freeway Travel Time Prediction,This competition requires participants to predict travel time on Sydney's M4 freeway from past travel time observations.,Featured,"$10,000",NA,NA,NA,356,2011-06-06
+R Package Recommendation Engine,The aim of this competition is to develop a recommendation engine for R libraries (or packages). (R is opensource statistics software.),Featured,$150,NA,NA,NA,57,2011-06-06
+IJCNN Social Network Challenge,This competition requires participants to predict edges in an online social network. The winner will receive free registration and the opportunity to present their solution at IJCNN 2011.,Featured,$950,NA,NA,NA,117,2011-06-06
+Tourism Forecasting Part Two,Part two requires competitors to predict 793 tourism-related time series. The winner of this competition will be invited to contribute a discussion paper to the International Journal of Forecasting.,Featured,$500,NA,NA,NA,42,2010-06-06
+Chess ratings - Elo versus the Rest of the World,This competition aims to discover whether other approaches can predict the outcome of chess games more accurately than the workhorse Elo rating system.,Featured,$617,NA,NA,NA,252,2010-06-06
+INFORMS Data Mining Contest 2010,The goal of this contest is to predict short term movements in stock prices. The winners of this contest will be honoured of the INFORMS Annual Meeting in Austin-Texas (November 7-10).,Featured,$0,NA,NA,NA,145,2010-06-06
+Tourism Forecasting Part One,Part one requires competitors to predict 518 tourism-related time series. The winner of this competition will be invited to contribute a discussion paper to the International Journal of Forecasting.,Featured,$500,NA,NA,NA,55,2010-06-06
+Predict HIV Progression,"This contest requires competitors to predict the likelihood that an HIV patient's infection will become less severe, given a small dataset and limited clinical information.",Featured,$500,NA,NA,NA,107,2010-06-06
+World Cup 2010 - Take on the Quants,Quants at Goldman Sachs and JP Morgan have modeled the likely outcomes of the 2010 World Cup. Can you do better?,Featured,$100,NA,NA,NA,NA,2010-06-06
+World Cup 2010 - Confidence Challenge,The Confidence Challenge requires competitors to assign a level of confidence to their World Cup predictions.,Featured,$100,NA,NA,NA,63,2010-06-06
+Forecast Eurovision Voting,"This competition requires contestants to forecast the voting for this year's Eurovision Song Contest in Norway on May 25th, 27th and 29th.",Featured,"$1,000",NA,NA,NA,22,2010-06-06
+Predicting Molecular Properties,Can you measure the magnetic interactions between a pair of atoms?,Featured,"$30,000"," tabular data, chemistry, regression",NA,NA,433,2019-09-03
+Open Images 2019 - Object Detection,Detect objects in varied and complex images,Research,"$25,000"," image data, image processing",NA,NA,21,2019-10-03
+Open Images 2019 - Visual Relationship,Detect pairs of objects in particular relationships,Research,"$25,000"," image processing, image data",NA,NA,16,2019-10-03
+Data Science for Good: City of Los Angeles,Help the City of Los Angeles to structure and analyze its job descriptions,Analytics,"$15,000"," image data, text data, employment, nlp",NA,NA,NA,2019-06-21
+Digit Recognizer,Learn computer vision fundamentals with the famous MNIST data,Getting Started,Knowledge," object identification, tabular data, multiclass classification, image data",NA,NA,3115,NA
+Titanic: Machine Learning from Disaster,Start here! Predict survival on the Titanic and get familiar with ML basics,Getting Started,Knowledge," binary classification, tabular data, tutorial",NA,NA,11128,NA
+House Prices: Advanced Regression Techniques,"Predict sales prices and practice feature engineering, RFs, and gradient boosting",Getting Started,Knowledge," tabular data, regression",NA,NA,4674,NA
+ImageNet Object Localization Challenge,Identify the objects in images,Research,Knowledge," object detection, image data",NA,NA,38,2030-06-01
+iWildCam 2019 - FGVC6,Categorize animals in the wild,Playground,Kudos," image data, multiclass classification",NA,NA,331,2019-06-07
+Northeastern SMILE Lab - Recognizing Faces in the Wild,Can you determine if two individuals are related?,Playground,Knowledge," relationships, image data",NA,NA,232,2019-08-03
+LANL Earthquake Prediction,Can you predict upcoming laboratory earthquakes?,Research,"$50,000"," earth sciences, physics, signal processing",NA,NA,4541,2019-06-03
+TMDB Box Office Prediction,Can you predict a movie's worldwide box office revenue?,Playground,Knowledge," tabular data, film",NA,NA,1400,2019-05-30
+Don't Overfit! II,A Fistful of Samples,Playground,Swag," tabular data, binary classification",NA,NA,2330,2019-05-04
+Ciphertext Challenge II,553398 418126 467884 411 374106 551004 356535 539549 487091 290502 121468 556912 469347 515719 201909 101,Playground,Swag," text data, internet",NA,NA,75,2019-05-04
+Data Science for Good: CareerVillage.org,Match career advice questions with professionals in the field,Analytics,"$15,000"," children, education",NA,NA,NA,2019-05-04
+Gendered Pronoun Resolution,Pair pronouns to their correct entities,Research,"$25,000"," text data, nlp",NA,NA,838,2019-05-04
+CareerCon 2019 - Help Navigate Robots,Compete to get your resume in front of our sponsors,Recruitment,Swag," tabular data, signal processing, robotics",NA,NA,1449,2019-04-04
+Santander Customer Transaction Prediction,Can you identify who will make a transaction?,Featured,"$65,000"," banking, tabular data, binary classification",NA,NA,8802,2019-04-04
+Google Cloud & NCAA® ML Competition 2019-Men's,Apply Machine Learning to NCAA® March Madness®,Featured,"$25,000"," basketball, sports",NA,NA,866,2019-04-04
+Google Cloud & NCAA® ML Competition 2019-Women's,Apply Machine Learning to NCAA® March Madness®,Featured,"$25,000"," basketball, sports",NA,NA,500,2019-04-04
+Histopathologic Cancer Detection,Identify metastatic tissue in histopathologic scans of lymph node sections,Playground,Knowledge," oncology and cancer, research, medicine",NA,NA,1157,2019-04-04
+VSB Power Line Fault Detection,Can you detect faults in above-ground electrical lines?,Featured,"$25,000"," signal processing, tabular data, binary classification",NA,NA,1451,2019-04-04
+Humpback Whale Identification,Can you identify a whale by its tail?,Featured,"$25,000"," image data, animals",NA,NA,2131,2019-03-04
+Elo Merchant Category Recommendation,Help understand customer loyalty,Featured,"$50,000"," banking, tabular data, regression",NA,NA,4129,2019-03-04
+Google Analytics Customer Revenue Prediction,Predict how much GStore customers will spend,Featured,"$45,000"," regression, tabular data",NA,NA,3611,2019-03-04
+20 Newsgroups Ciphertext Challenge,V8g{9827$A${?^*?}$$v7*.yig$w9.8},Playground,Swag," text data, multiclass classification",NA,NA,142,2019-01-02
+Human Protein Atlas Image Classification,Classify subcellular protein patterns in human cells,Featured,"$37,000"," classification, image data",NA,NA,2172,2019-01-02
+Traveling Santa 2018 - Prime Paths,"But does your code recall, the most efficient route of all?",Featured,"$25,000"," mathematical optimization, optimization",NA,NA,1874,2019-01-02
+NFL Punt Analytics Competition,Analyze NFL game data and suggest rules to improve player safety during punt plays,Analytics,"$80,000"," health, american football, sports, safety",NA,NA,NA,2019-01-02
+PLAsTiCC Astronomical Classification,Can you help make sense of the Universe?,Featured,"$25,000"," time series, astronomy, tabular data",NA,NA,1094,2018-12-03
+"Quick, Draw! Doodle Recognition Challenge",How accurately can you identify a doodle?,Featured,"$25,000"," writing, image data",NA,NA,1316,2018-12-03
+Don't call me turkey!,Thanksgiving Edition: Find the turkey in the sound bite,Playground,Swag," binary classification, sound technology, tabular data, animals",NA,NA,267,2018-12-03
+Airbus Ship Detection Challenge,Find ships on satellite images as quickly as possible,Featured,"$60,000"," image data, object detection, object segmentation",NA,NA,883,2018-11-03
+Inclusive Images Challenge,Stress test image classifiers across new geographic distributions,Research,"$25,000"," image data, multiclass classification",NA,NA,468,2018-11-03
+RSNA Pneumonia Detection Challenge,Can you build an algorithm that automatically detects potential pneumonia cases?,Featured,"$30,000"," image data, medicine",NA,NA,1499,2018-11-03
+TGS Salt Identification Challenge,Segment salt deposits beneath the Earth's surface,Featured,"$100,000"," image data, geology",NA,NA,3234,2018-10-03
+New York City Taxi Fare Prediction,Can you predict a rider's taxi fare?,Playground,Knowledge," tabular data, regression",NA,NA,1488,2018-10-03
+Home Credit Default Risk,Can you predict how capable each applicant is of repaying a loan?,Featured,"$70,000"," home, banking, tabular data",NA,NA,7198,2018-09-03
+Santander Value Prediction Challenge,Predict the value of transactions for potential customers.,Featured,"$60,000"," finance, banking",NA,NA,4484,2018-09-03
+TrackML Particle Tracking Challenge,High Energy Physics particle tracking in CERN detectors,Featured,"$25,000"," physics, tabular data",NA,NA,653,2018-08-03
+The 2nd YouTube-8M Video Understanding Challenge,Can you create a constrained-size model to predict video labels?,Featured,"$25,000"," video data, object labeling",NA,NA,312,2018-08-03
+Freesound General-Purpose Audio Tagging Challenge,Can you automatically recognize sounds from a wide range of real-world environments?,Research,Knowledge, sound technology,NA,NA,558,2018-08-03
+Humpback Whale Identification Challenge,Can you identify a whale by the picture of its fluke?,Playground,Kudos," image data, animals",NA,NA,528,2018-06-04
+Avito Demand Prediction Challenge,Predict demand for an online classified ad,Featured,"$25,000"," tabular data, image data, text data",NA,NA,1873,2018-06-04
+Google Landmark Recognition Challenge,Label famous (and not-so-famous) landmarks in images,Research,"$2,500", image data,NA,NA,477,2018-06-04
+Google Landmark Retrieval Challenge,"Given an image, can you find all of the same landmarks in a dataset?",Research,"$2,500", image data,NA,NA,209,2018-06-04
+DonorsChoose.org Application Screening,Predict whether teachers' project proposals are accepted,Playground,Swag," binary classification, crowdfunding",NA,NA,581,2018-06-04
+2018 Data Science Bowl,Find the nuclei in divergent images to advance medical discovery,Featured,"$100,000", biology,NA,NA,3634,2018-06-04
+Google Cloud & NCAA® ML Competition 2018-Men's,Apply Machine Learning to NCAA® March Madness®,Featured,"$50,000", basketball,NA,NA,934,2018-06-04
+Toxic Comment Classification Challenge,Identify and classify toxic online comments,Featured,"$35,000"," arguments, text data",NA,NA,4551,2018-06-04
+Plant Seedlings Classification,Determine the species of a seedling from an image,Playground,Kudos," image data, multiclass classification, plants",NA,NA,836,2018-06-04
+Dog Breed Identification,Determine the breed of a dog in an image,Playground,Kudos," animals, multiclass classification, image data, object identification",NA,NA,1286,2018-06-04
+Nomad2018 Predicting Transparent Conductors,Predict the key properties of novel transparent semiconductors,Research,"€5,000"," chemistry, semiconductors",NA,NA,883,2018-06-04
+IEEE's Signal Processing Society - Camera Model Identification,Identify from which camera an image was taken,Featured,"$25,000", image data,NA,NA,582,2018-06-04
+Statoil/C-CORE Iceberg Classifier Challenge,"Ship or iceberg, can you decide from space?",Featured,"$50,000"," image data, binary classification, shipping, weather",NA,NA,3343,2018-06-04
+Corporación Favorita Grocery Sales Forecasting,Can you accurately predict sales for a large grocery chain?,Featured,"$30,000"," food and drink, tabular data, regression, future prediction",NA,NA,1675,2018-06-04
+Santa Gift Matching Challenge,Down through the chimney with lots of toys...,Featured,"$25,000", mathematical optimization,NA,NA,428,2018-06-04
+Zillow Prize: Zillow’s Home Value Prediction (Zestimate),Can you improve the algorithm that changed the world of real estate?,Featured,"$1,200,000"," real estate, housing",NA,NA,3779,2018-06-04
+WSDM - KKBox's Churn Prediction Challenge,Can you predict when subscribers will churn?,Research,"$5,000", binary classification,NA,NA,575,2018-06-04
+Passenger Screening Algorithm Challenge,Improve the accuracy of the Department of Homeland Security's threat recognition algorithms,Featured,"$1,500,000"," image data, terrorism, object detection",NA,NA,518,2018-06-04
+Spooky Author Identification,Share code and discuss insights to identify horror authors from their writings,Playground,"$25,000"," literature, multiclass classification, linguistics",NA,NA,1244,2018-06-04
+Cdiscount’s Image Classification Challenge,Categorize e-commerce photos,Featured,"$35,000", multiclass classification,NA,NA,627,2018-06-04
+Porto Seguro’s Safe Driver Prediction,Predict if a driver will file an insurance claim next year.,Featured,"$25,000"," binary classification, tabular data",NA,NA,5169,2017-06-04
+Text Normalization Challenge - English Language,Convert English text from written expressions into spoken forms,Research,"$25,000"," languages, linguistics, text data",NA,NA,260,2017-06-04
+Text Normalization Challenge - Russian Language,Convert Russian text from written expressions into spoken forms,Research,"$25,000"," text data, languages, linguistics",NA,NA,162,2017-06-04
+Web Traffic Time Series Forecasting,Forecast future traffic to Wikipedia pages,Research,"$25,000"," time series, internet, tabular data, future prediction",NA,NA,1095,2017-06-04
+Personalized Medicine: Redefining Cancer Treatment,Predict the effect of Genetic Variants to enable Personalized Medicine,Research,"$15,000"," multiclass classification, text data, health sciences, human genetics",NA,NA,1386,2017-06-04
+NIPS 2017: Non-targeted Adversarial Attack,Imperceptibly transform images in ways that fool classification models,Research,Swag," image data, adversarial learning",NA,NA,91,2017-06-04
+NIPS 2017: Targeted Adversarial Attack,Develop an adversarial attack that causes image classifiers to predict a specific target class,Research,Swag," adversarial learning, image data",NA,NA,65,2017-06-04
+NIPS 2017: Defense Against Adversarial Attack,Create an image classifier that is robust to adversarial attacks,Research,Swag," adversarial learning, image data",NA,NA,107,2017-06-04
+Carvana Image Masking Challenge,Automatically identify the boundaries of the car in an image,Featured,"$25,000"," image data, automobiles, object segmentation",NA,NA,735,2017-06-04
+New York City Taxi Trip Duration,Share code and data to improve ride time predictions,Playground,"$30,000"," regression, taxi services, tabular data",NA,NA,1257,2017-06-04
+Invasive Species Monitoring,Identify images of invasive hydrangea,Playground,Knowledge," plants, image data, object detection",NA,NA,513,2017-06-04
+Instacart Market Basket Analysis,Which products will an Instacart consumer purchase again?,Featured,"$25,000"," market basket, food and drink",NA,NA,2623,2017-06-04
+Planet: Understanding the Amazon from Space,Use satellite data to track the human footprint in the Amazon rainforest,Featured,"$60,000"," ecology, forestry, object identification, image data",NA,NA,938,2017-06-04
+Mercedes-Benz Greener Manufacturing,Can you cut the time a Mercedes-Benz spends on the test bench?,Featured,"$25,000"," regression, tabular data, automobiles",NA,NA,3835,2017-06-04
+iNaturalist Challenge at FGVC 2017,"Fine-grained classification challenge spanning 5,000 species.",Research,Knowledge," animals, plants, object identification, image data",NA,NA,50,2017-06-04
+iMaterialist Challenge at FGVC 2017,Can you assign accurate description labels to images of apparel products?,Research,Knowledge," object labeling, clothing, image data",NA,NA,28,2017-06-04
+Sberbank Russian Housing Market,Can you predict realty price fluctuations in Russia’s volatile economy?,Featured,"$25,000"," tabular data, housing, banking, regression",NA,NA,3274,2017-06-04
+NOAA Fisheries Steller Sea Lion Population Count,How many sea lions do you see?,Featured,"$25,000"," counting, oceanography, animals, image data",NA,NA,385,2017-06-04
+Intel & MobileODT Cervical Cancer Screening,Which cancer treatment will be most effective?,Featured,"$100,000"," image data, healthcare, multiclass classification, object identification",NA,NA,848,2017-06-04
+Quora Question Pairs,Can you identify question pairs that have the same intent?,Featured,"$25,000"," text data, duplicate detection, linguistics, internet, tabular data",NA,NA,3307,2017-06-04
+Google Cloud & YouTube-8M Video Understanding Challenge,Can you produce the best video tag predictions?,Featured,"$100,000"," image data, internet, object labeling",NA,NA,655,2017-06-04
+Two Sigma Connect: Rental Listing Inquiries,How much interest will a new rental listing on RentHop receive?,Recruitment,Jobs," multiclass classification, text data, housing, tabular data",NA,NA,2488,2017-06-04
+The Nature Conservancy Fisheries Monitoring,Can you detect and classify species of fish?,Featured,"$150,000"," image data, fishing, multiclass classification, object detection",NA,NA,2293,2017-06-04
+Data Science Bowl 2017,Can you improve lung cancer detection?,Featured,"$1,000,000"," healthcare, image data, binary classification",NA,NA,1972,2017-06-04
+March Machine Learning Mania 2017,Predict the 2017 NCAA Basketball Tournament,Playground,Swag," future prediction, basketball, sports",NA,NA,442,2017-06-04
+Transfer Learning on Stack Exchange Tags,Predict tags from models trained on unrelated topics,Playground,Knowledge," text data, tabular data, multiclass classification",NA,NA,380,2017-06-04
+Dstl Satellite Imagery Feature Detection,Can you train an eye in the sky?,Featured,"$100,000"," multiclass classification, object segmentation, image data",NA,NA,419,2017-06-04
+Dogs vs. Cats Redux: Kernels Edition,Distinguish images of dogs from cats,Playground,Knowledge," image data, animals, object identification, binary classification",NA,NA,1314,2017-06-04
+Leaf Classification,Can you see the random forest for the leaves?,Playground,Knowledge," image data, object identification, multiclass classification",NA,NA,1598,2017-06-04
+Santa's Uncertain Bags,"♫ Bells are ringing, children singing, all is merry and bright. Santa's elves made a big mistake, now he needs your help tonight ♫",Playground,Swag," mathematical optimization, tabular data",NA,NA,694,2017-06-04
+Outbrain Click Prediction,Can you predict which recommended content each user will click?,Featured,"$25,000"," tabular data, internet, click prediction",NA,NA,979,2017-06-04
+Facial Keypoints Detection,Detect the location of keypoints on face images,Getting Started,Knowledge," object labeling, image data",NA,NA,175,2017-06-04
+First Steps With Julia,Use Julia to identify characters from Google Street View images,Getting Started,Knowledge," image data, object identification",NA,NA,56,2017-06-04
+Santander Product Recommendation,Can you pair products with people?,Featured,"$60,000"," multiclass classification, tabular data, banking",NA,NA,1787,2017-06-04
+Allstate Claims Severity,How severe is an insurance claim?,Recruitment,Jobs," tabular data, regression",NA,NA,3055,2017-06-04
+Melbourne University AES/MathWorks/NIH Seizure Prediction,Predict seizures in long-term human intracranial EEG recordings,Research,"$20,000"," signal data, healthcare, diseases",NA,NA,478,2016-06-04
+"Ghouls, Goblins, and Ghosts... Boo!",Can you classify monsters haunting Kaggle?,Playground,Knowledge," tabular data, multiclass classification",NA,NA,764,2016-06-04
+Bosch Production Line Performance,Reduce manufacturing failures,Featured,"$30,000"," binary classification, manufacturing, tabular data",NA,NA,1373,2016-06-04
+Painter by Numbers,Does every painter leave a fingerprint?,Playground,Knowledge," painting, image data, duplicate detection, object recognition",NA,NA,41,2016-06-04
+Integer Sequence Learning,"1, 2, 3, 4, 5, 7?!",Playground,Knowledge," tabular data, mathematics, numbers",NA,NA,286,2016-06-04
+Predicting Red Hat Business Value,Classify customer potential,Featured,"$50,000"," business, tabular data",NA,NA,2271,2016-06-04
+TalkingData Mobile User Demographics,Get to know millions of mobile device users,Featured,"$25,000"," mobile web, tabular data, demographics, multiclass classification",NA,NA,1689,2016-06-04
+Grupo Bimbo Inventory Demand,Maximize sales and minimize returns of bakery goods,Featured,"$25,000"," food and drink, tabular data, future prediction",NA,NA,1969,2016-06-04
+Ultrasound Nerve Segmentation,Identify nerve structures in ultrasound images of the neck,Featured,"$100,000"," object segmentation, image data, healthcare, health sciences",NA,NA,923,2016-06-04
+State Farm Distracted Driver Detection,Can computer vision spot distracted drivers?,Featured,"$65,000"," automobiles, image data, object recognition",NA,NA,1440,2016-06-04
+Shelter Animal Outcomes,Help improve outcomes for shelter animals,Playground,Knowledge," multiclass classification, tabular data, animals",NA,NA,1604,2016-06-04
+Avito Duplicate Ads Detection,Can you detect duplicitous duplicate ads?,Featured,"$20,000"," internet, duplicate detection",NA,NA,548,2016-06-04
+Facebook V: Predicting Check Ins,Identify the correct place for check ins,Recruitment,Jobs," multiclass classification, internet, tabular data, geography",NA,NA,1212,2016-06-04
+Draper Satellite Image Chronology,Can you put order to space and time?,Featured,"$75,000"," timelines, ranking, image data",NA,NA,401,2016-06-04
+Kobe Bryant Shot Selection,Which shots did Kobe sink?,Playground,Knowledge," binary classification, basketball, tabular data",NA,NA,1117,2016-06-04
+Expedia Hotel Recommendations,Which hotel type will an Expedia customer book?,Featured,"$25,000"," hotels, tabular data, recommendation",NA,NA,1974,2016-06-04
+San Francisco Crime Classification,Predict the category of crimes that occurred in the city by the bay,Playground,Knowledge," multiclass classification, crime, tabular data",NA,NA,2335,2016-06-04
+Santander Customer Satisfaction,Which customers are happy customers?,Featured,"$60,000"," tabular data, banking, binary classification",NA,NA,5123,2016-06-04
+Home Depot Product Search Relevance,Predict the relevance of search results on homedepot.com,Featured,"$40,000"," ranking, tabular data",NA,NA,2125,2016-06-04
+BNP Paribas Cardif Claims Management,Can you accelerate BNP Paribas Cardif's claims management process?,Featured,"$30,000"," tabular data, banking, binary classification",NA,NA,2926,2016-06-04
+Yelp Restaurant Photo Classification,Predict attribute labels for restaurants using user-submitted photos,Recruitment,Jobs," image data, object labeling, food and drink, internet",NA,NA,355,2016-06-04
+March Machine Learning Mania 2016,Predict the 2016 NCAA Basketball Tournament,Featured,"$25,000"," tabular data, basketball, sports, future prediction",NA,NA,598,2016-06-04
+Second Annual Data Science Bowl,Transforming How We Diagnose Heart Disease,Featured,"$200,000"," image data, healthcare",NA,NA,192,2016-06-04
+Telstra Network Disruptions,Predict service faults on Australia's largest telecommunications network,Recruitment,Jobs," tabular data, internet, multiclass classification",NA,NA,974,2016-06-04
+Prudential Life Insurance Assessment,Can you make buying life insurance easier?,Featured,"$30,000"," ranking, tabular data",NA,NA,2619,2016-06-04
+The Allen AI Science Challenge,Is your model smarter than an 8th grader?,Featured,"$80,000"," tabular data, artificial intelligence, multiclass classification, text data",NA,NA,799,2016-06-04
+Airbnb New User Bookings,Where will a new guest book their first travel experience?,Recruitment,Jobs," recommendation, hotels, tabular data",NA,NA,1462,2016-06-04
+Homesite Quote Conversion,Which customers will purchase a quoted insurance plan?,Featured,"$20,000"," tabular data, binary classification",NA,NA,1764,2016-06-04
+The Winton Stock Market Challenge,Join a multi-disciplinary team of research scientists,Featured,"$50,000"," finance, tabular data, future prediction",NA,NA,1300,2016-06-04
+Santa's Stolen Sleigh,"♫ Alarm bells ring, are you listening? Santa's sleigh has gone missing ♫",Featured,"$20,000"," mathematical optimization, tabular data",NA,NA,1127,2016-06-04
+Right Whale Recognition,Identify endangered right whales in aerial photographs,Research,"$10,000"," image data, oceanography, animals, object detection",NA,NA,364,2016-06-04
+Walmart Recruiting: Trip Type Classification,Use market basket analysis to classify shopping trips,Recruitment,Jobs," tabular data, multiclass classification",NA,NA,1047,2016-06-04
+What's Cooking?,Use recipe ingredients to categorize the cuisine,Playground,Knowledge," multiclass classification, text data, food and drink",NA,NA,1388,2016-06-04
+Rossmann Store Sales,"Forecast sales using store, promotion, and competitor data",Featured,"$35,000"," tabular data, future prediction",NA,NA,3303,2016-06-04
+How Much Did It Rain? II,Predict hourly rainfall using data from polarimetric radars,Research,$500," regression, future prediction, tabular data",NA,NA,587,2016-06-04
+Springleaf Marketing Response,Determine whether to send a direct mail piece to a customer,Featured,"$100,000"," marketing, tabular data, binary classification",NA,NA,2226,2015-06-05
+Truly Native?,Predict which web pages served by StumbleUpon are sponsored,Featured,"$10,000"," binary classification, marketing, tabular data",NA,NA,274,2015-06-05
+Flavours of Physics: Finding t → µµµ,Identify a rare decay phenomenon,Featured,"$15,000"," tabular data, physics, binary classification",NA,NA,673,2015-06-05
+Denoising Dirty Documents,Remove noise from printed text,Playground,Knowledge," image data, object segmentation",NA,NA,161,2015-06-05
+Coupon Purchase Prediction,Predict which coupons a customer will buy,Featured,"$50,000"," multiclass classification, marketing, tabular data",NA,NA,1076,2015-06-05
+Caterpillar Tube Pricing,Model quoted prices for industrial tube assemblies,Featured,"$30,000"," tabular data, manufacturing, regression",NA,NA,1323,2015-06-05
+Grasp-and-Lift EEG Detection,Identify hand motions from EEG recordings,Research,"$10,000"," multiclass classification, signal data",NA,NA,379,2015-06-05
+Liberty Mutual Group: Property Inspection Prediction,Quantify property hazards before time of inspection,Featured,"$25,000"," housing, counting",NA,NA,2236,2015-06-05
+ICDM 2015: Drawbridge Cross-Device Connections,Identify individual users across their digital devices,Featured,"$10,000"," tabular data, multiclass classification",NA,NA,340,2015-06-05
+Avito Context Ad Clicks,Predict if context ads will earn a user's click,Featured,"$20,000"," marketing, tabular data, click prediction",NA,NA,414,2015-06-05
+Diabetic Retinopathy Detection,Identify signs of diabetic retinopathy in eye images,Featured,"$100,000"," binary classification, image data, optometry, health sciences",NA,NA,661,2015-06-05
+Crowdflower Search Results Relevance,Predict the relevance of search results from eCommerce sites,Featured,"$20,000"," internet, tabular data, ranking",NA,NA,1326,2015-06-05
+ECML/PKDD 15: Taxi Trajectory Prediction (I),Predict the destination of taxi trips based on initial partial trajectories,Research,$250," taxi services, tabular data",NA,NA,381,2015-06-05
+ECML/PKDD 15: Taxi Trip Time Prediction (II),Predict the total travel time of taxi trips based on their initial partial trajectories,Research,$250," taxi services, tabular data",NA,NA,345,2015-06-05
+Bag of Words Meets Bags of Popcorn,Use Google's Word2Vec for movie reviews,Getting Started,Knowledge," film, text data, binary classification",NA,NA,578,2015-06-05
+West Nile Virus Prediction,Predict West Nile virus in mosquitos across the city of Chicago,Featured,"$40,000"," binary classification, tabular data",NA,NA,1306,2015-06-05
+Facebook Recruiting IV: Human or Robot?,Predict if an online bid is made by a machine or a human,Recruitment,Jobs," internet, tabular data, binary classification",NA,NA,985,2015-06-05
+Random Acts of Pizza,Predicting altruism through free pizza,Playground,Knowledge," binary classification, text data, internet",NA,NA,464,2015-06-05
+Poker Rule Induction,Determine the poker hand of five playing cards,Playground,Knowledge," card games, tabular data, multiclass classification",NA,NA,207,2015-06-05
+Bike Sharing Demand,Forecast use of a city bikeshare system,Playground,Knowledge," future prediction, tabular data, cycling",NA,NA,3251,2015-06-05
+Walmart Recruiting II: Sales in Stormy Weather,Predict how sales of weather-sensitive products are affected by snow and rain,Recruitment,Jobs," tabular data, regression",NA,NA,485,2015-06-05
+Otto Group Product Classification Challenge,Classify products into the correct category,Featured,"$10,000"," tabular data, internet",NA,NA,3514,2015-06-05
+How Much Did It Rain?,Predict probabilistic distribution of hourly rain given polarimetric radar measurements,Research,$500, tabular data,NA,NA,321,2015-06-05
+Forest Cover Type Prediction,Use cartographic variables to classify forest categories,Playground,Knowledge," forestry, multiclass classification",NA,NA,1694,2015-06-05
+Restaurant Revenue Prediction,Predict annual restaurant sales based on objective measurements,Featured,"$30,000"," regression, tabular data",NA,NA,2257,2015-06-05
+Billion Word Imputation,Find and impute missing words in the billion word corpus,Playground,Knowledge," text data, linguistics",NA,NA,87,2015-06-05
+Microsoft Malware Classification Challenge (BIG 2015),Classify malware into families based on file content and characteristics,Research,"$16,000"," internet, text data, multiclass classification",NA,NA,377,2015-06-05
+March Machine Learning Mania 2015,Predict the 2015 NCAA Basketball Tournament,Featured,"$15,000"," future prediction, tabular data, basketball, sports",NA,NA,341,2015-06-05
+Finding Elo,Predict a chess player's FIDE Elo rating from one game,Playground,Knowledge," board games, tabular data, ranking",NA,NA,158,2015-06-05
+National Data Science Bowl,"Predict ocean health, one plankton at a time",Featured,"$175,000"," oceanography, image data, multiclass classification",NA,NA,1049,2015-06-05
+Driver Telematics Analysis,Use telematic data to identify a driver signature,Featured,"$30,000"," multiclass classification, tabular data",NA,NA,1528,2015-06-05
+Sentiment Analysis on Movie Reviews,Classify the sentiment of sentences from the Rotten Tomatoes dataset,Playground,Knowledge," text data, multiclass classification",NA,NA,861,2015-06-05
+March Machine Learning Mania,Tip off college basketball by predicting the 2014 NCAA Tournament,Featured,"$15,000"," basketball, sports",NA,NA,248,2014-06-05
+StumbleUpon Evergreen Classification Challenge,Build a classifier to categorize webpages as evergreen or non-evergreen,Featured,"$5,000"," internet, tabular data, text data",NA,NA,625,2013-06-05
+Flavours of Physics: Finding t → µµµ (Kernels Only),Identify a rare decay phenomenon,Playground,Knowledge,NA,Kernels Competition,Submission is through Kaggle Kernels.Learn more.,64,2018-10-03
+Mercari Price Suggestion Challenge,Can you automatically suggest product prices to online sellers?,Featured,"$100,000",NA,Kernels Competition,Submission is through Kaggle Kernels.Learn more.,2384,2018-06-04
+15.071x - The Analytics Edge (Spring 2015),Test your analytics skills by predicting which New York Times blog articles will be the most popular,Research,Knowledge,NA,NA,NA,2923,2015-06-05
+15.071x - The Analytics Edge (Spring 2015),Test your analytics skills by predicting which New York Times blog articles will be the most popular.,Research,Knowledge,NA,NA,NA,NA,2015-06-05
+Two Sigma: Using News to Predict Stock Movements,Use news analytics to predict stock price performance,Featured,"$100,000"," news agencies, time series, finance, money",Kernels Competition,Submission is through Kaggle Kernels.Learn more.,2927,2019-07-04
+Jigsaw Unintended Bias in Toxicity Classification,Detect toxicity across a diverse range of conversations,Featured,"$65,000"," nlp, biases, text data",Kernels Competition,Submission is through Kaggle Kernels.Learn more.,2509,2019-06-26
+Instant Gratification,A synchronous Kernels-only competition,Featured,"$5,000"," binary classification, tabular data",Kernels Competition,Submission is through Kaggle Kernels.Learn more.,1059,2019-06-20
+Freesound Audio Tagging 2019,Automatically recognize sounds and apply tags of varying natures,Research,"$5,000"," sound technology, audio data",Kernels Competition,Submission is through Kaggle Kernels.Learn more.,803,2019-06-10
+iMet Collection 2019 - FGVC6,Recognize artwork attributes from The Metropolitan Museum of Art,Research,Kudos," image data, visual arts, painting",Kernels Competition,Submission is through Kaggle Kernels.Learn more.,511,2019-06-04
+Aerial Cactus Identification,Determine whether an image contains a columnar cactus,Playground,Knowledge," image data, nature, plants",Kernels Competition,Submission is through Kaggle Kernels.Learn more.,747,2019-07-04
+PetFinder.my Adoption Prediction,How cute is that doggy in the shelter?,Featured,"$25,000"," image data, text data",Kernels Competition,Submission is through Kaggle Kernels.Learn more.,2023,2019-04-04
+Quora Insincere Questions Classification,Detect toxic content to improve online conversations,Featured,"$25,000"," text data, binary classification",Kernels Competition,Submission is through Kaggle Kernels.Learn more.,4037,2019-02-02
+PUBG Finish Placement Prediction (Kernels Only),Can you predict the battle royale finish of PUBG Players?,Playground,Swag," video games, tabular data",Kernels Competition,Submission is through Kaggle Kernels.Learn more.,1534,2019-02-02
+Forest Cover Type (Kernels Only),Use cartographic variables to classify forest categories,Playground,Knowledge," ecology, forestry, tabular data",Kernels Competition,Submission is through Kaggle Kernels.Learn more.,359,2018-10-03
+Store Item Demand Forecasting Challenge,Predict 3 months of item sales at different stores,Playground,Knowledge," time series, tabular data",Kernels Competition,Submission is through Kaggle Kernels.Learn more.,462,2018-10-03
+What's Cooking? (Kernels Only),Use recipe ingredients to categorize the cuisine,Playground,Knowledge," text data, food and drink, multiclass classification",Kernels Competition,Submission is through Kaggle Kernels.Learn more.,523,2018-10-03
+Movie Review Sentiment Analysis (Kernels Only),Classify the sentiment of sentences from the Rotten Tomatoes dataset,Playground,Knowledge," multiclass classification, text data",Kernels Competition,Submission is through Kaggle Kernels.Learn more.,410,2018-10-03
+Costa Rican Household Poverty Level Prediction,Can you identify which households have the highest need for social welfare assistance?,Playground,Swag," tabular data, multiclass classification",Kernels Competition,Submission is through Kaggle Kernels.Learn more.,619,2018-09-03
+Two Sigma Financial Modeling Challenge,Can you uncover predictive value in an uncertain world?,Featured,"$100,000"," future prediction, finance",Kernels Competition,Submission is through Kaggle Kernels.Learn more.,2070,2017-06-04

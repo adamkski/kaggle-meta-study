@@ -36,5 +36,5 @@ vignettes/*.pdf
 rsconnect/
 
 # Data and results
-data/
 results/
+data-raw/

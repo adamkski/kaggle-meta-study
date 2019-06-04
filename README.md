@@ -183,3 +183,10 @@ kaggle_prizes %>%
 ![](README_files/figure-markdown_github/unnamed-chunk-10-1.png)
 
 There's likely some explanatory power of prize money, but the number of teams entering is likely a little more complicated story. Especially beyond $100,000 where it actually begins to decrease. Perhaps this is because of the nature of competitions offering greater prizes: they could be more challenging.
+
+Conclusions
+===========
+
+There are few Data Science for Good competitions, but Kaggle seems to be growing interested in hosting them. It's notable that the largest prize pool ever offered on Kaggle was from the public sector and while it's difficult to compare directly on team participation that isn't the be-all end-all of the value of these competitions.
+
+Now that I've looked at this data I'll think about how else the potential of Kaggle competitions to solve public issues or Data Science for Good can be analyzed and their benefits understood.
